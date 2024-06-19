@@ -1,0 +1,206 @@
+2024-06-18 21:28:50.876 [info] Log level: Info
+2024-06-18 21:28:50.876 [info] Validating found git in: "git"
+2024-06-18 21:28:50.876 [info] Using git "2.45.2" from "git"
+2024-06-18 21:28:50.876 [info] > git rev-parse --show-toplevel [8ms]
+2024-06-18 21:42:40.601 [info] Log level: Info
+2024-06-18 21:42:40.601 [info] Validating found git in: "git"
+2024-06-18 21:42:40.601 [info] Using git "2.45.2" from "git"
+2024-06-18 21:42:40.601 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-18 21:42:40.601 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:42:40.601 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-18 21:42:40.601 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:42:40.601 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-18 21:42:40.601 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:42:41.140 [info] > git rev-parse --show-toplevel [5ms]
+2024-06-18 21:42:41.140 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:42:42.281 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-18 21:42:42.281 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:47:49.980 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-18 21:47:49.980 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:48:41.021 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-18 21:48:41.021 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:49:09.790 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-18 21:49:09.790 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:49:25.357 [info] > git rev-parse --show-toplevel [5ms]
+2024-06-18 21:49:25.357 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:49:30.495 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-18 21:49:30.495 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:49:32.219 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-18 21:49:32.219 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:49:42.285 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-18 21:49:42.285 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:49:57.136 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-18 21:49:57.137 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:50:19.494 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-18 21:50:19.494 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:50:27.685 [info] > git rev-parse --show-toplevel [5ms]
+2024-06-18 21:50:27.685 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:50:35.821 [info] > git rev-parse --show-toplevel [5ms]
+2024-06-18 21:50:35.821 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:50:37.480 [info] > git rev-parse --show-toplevel [5ms]
+2024-06-18 21:50:37.480 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:50:50.101 [info] > git rev-parse --show-toplevel [6ms]
+2024-06-18 21:50:50.101 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:51:21.867 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-18 21:51:21.867 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:54:46.640 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-18 21:54:46.640 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-18 21:55:26.371 [info] Log level: Info
+2024-06-18 21:55:26.371 [info] Validating found git in: "git"
+2024-06-18 21:55:26.371 [info] Using git "2.45.2" from "git"
+2024-06-18 21:55:26.371 [info] > git rev-parse --show-toplevel [12ms]
+2024-06-18 21:55:26.371 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.388 [info] > git rev-parse --show-toplevel [11ms]
+2024-06-18 21:55:26.389 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.398 [info] > git rev-parse --show-toplevel [5ms]
+2024-06-18 21:55:26.398 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.405 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-18 21:55:26.405 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.412 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-18 21:55:26.412 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.421 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-18 21:55:26.421 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.570 [info] > git rev-parse --show-toplevel [144ms]
+2024-06-18 21:55:26.570 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.620 [info] > git rev-parse --show-toplevel [27ms]
+2024-06-18 21:55:26.620 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.662 [info] > git rev-parse --show-toplevel [29ms]
+2024-06-18 21:55:26.662 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.688 [info] > git rev-parse --show-toplevel [6ms]
+2024-06-18 21:55:26.688 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.787 [info] > git rev-parse --show-toplevel [55ms]
+2024-06-18 21:55:26.787 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.817 [info] > git rev-parse --show-toplevel [23ms]
+2024-06-18 21:55:26.817 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.866 [info] > git rev-parse --show-toplevel [30ms]
+2024-06-18 21:55:26.866 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.876 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-18 21:55:26.876 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.892 [info] > git rev-parse --show-toplevel [9ms]
+2024-06-18 21:55:26.892 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.909 [info] > git rev-parse --show-toplevel [5ms]
+2024-06-18 21:55:26.909 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.921 [info] > git rev-parse --show-toplevel [5ms]
+2024-06-18 21:55:26.921 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.937 [info] > git rev-parse --show-toplevel [7ms]
+2024-06-18 21:55:26.937 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.950 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-18 21:55:26.951 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.967 [info] > git rev-parse --show-toplevel [8ms]
+2024-06-18 21:55:26.967 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:26.983 [info] > git rev-parse --show-toplevel [7ms]
+2024-06-18 21:55:26.983 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.005 [info] > git rev-parse --show-toplevel [12ms]
+2024-06-18 21:55:27.005 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.052 [info] > git rev-parse --show-toplevel [33ms]
+2024-06-18 21:55:27.109 [info] > git rev-parse --git-dir --git-common-dir [23ms]
+2024-06-18 21:55:27.122 [info] Open repository: /run/media/neo/4E21-EE1A/ARCH/.config/nvim
+2024-06-18 21:55:27.151 [info] > git rev-parse --show-toplevel [12ms]
+2024-06-18 21:55:27.151 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.152 [info] > git config --get commit.template [19ms]
+2024-06-18 21:55:27.250 [info] > git rev-parse --show-toplevel [83ms]
+2024-06-18 21:55:27.250 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.310 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v2.0 refs/remotes/v2.0 [70ms]
+2024-06-18 21:55:27.371 [warning] ENOENT: no such file or directory, open '/run/media/neo/4E21-EE1A/ARCH/.config/nvim/.git/refs/remotes/origin/v2.0'
+2024-06-18 21:55:27.381 [info] > git rev-parse --show-toplevel [72ms]
+2024-06-18 21:55:27.381 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.390 [info] > git rev-parse refs/remotes/origin/v2.0 [19ms]
+2024-06-18 21:55:27.399 [info] > git rev-parse --show-toplevel [10ms]
+2024-06-18 21:55:27.399 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.406 [info] > git status -z -uall [10ms]
+2024-06-18 21:55:27.428 [info] > git merge-base refs/heads/v2.0 refs/remotes/origin/v2.0 [14ms]
+2024-06-18 21:55:27.434 [info] > git rev-parse --show-toplevel [30ms]
+2024-06-18 21:55:27.434 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.444 [info] > git rev-list --count --left-right refs/heads/v2.0...refs/remotes/origin/v2.0 [10ms]
+2024-06-18 21:55:27.450 [info] > git config --get commit.template [23ms]
+2024-06-18 21:55:27.452 [info] > git rev-parse --show-toplevel [9ms]
+2024-06-18 21:55:27.452 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.464 [info] > git diff --name-status -z --diff-filter=ADMR e121bde8d8eec6611748a038a5216014c9b9a03c...refs/remotes/origin/v2.0 [14ms]
+2024-06-18 21:55:27.466 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-18 21:55:27.466 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.466 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v2.0 refs/remotes/v2.0 [8ms]
+2024-06-18 21:55:27.477 [warning] ENOENT: no such file or directory, open '/run/media/neo/4E21-EE1A/ARCH/.config/nvim/.git/refs/remotes/origin/v2.0'
+2024-06-18 21:55:27.478 [info] > git rev-parse --show-toplevel [6ms]
+2024-06-18 21:55:27.478 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.485 [info] > git rev-parse refs/remotes/origin/v2.0 [8ms]
+2024-06-18 21:55:27.492 [info] > git rev-parse --show-toplevel [7ms]
+2024-06-18 21:55:27.492 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.499 [info] > git status -z -uall [8ms]
+2024-06-18 21:55:27.505 [info] > git rev-parse --show-toplevel [7ms]
+2024-06-18 21:55:27.505 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.515 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-18 21:55:27.515 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.523 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-18 21:55:27.523 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.533 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-18 21:55:27.533 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.542 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-18 21:55:27.542 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.557 [info] > git rev-parse --show-toplevel [9ms]
+2024-06-18 21:55:27.557 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.565 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-18 21:55:27.565 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.573 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-18 21:55:27.573 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.581 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-18 21:55:27.581 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:55:27.720 [info] > git check-ignore -v -z --stdin [1ms]
+2024-06-18 21:56:09.903 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-18 21:56:09.903 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 21:56:32.624 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-18 21:56:32.624 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 22:04:14.320 [info] > git rev-parse --show-toplevel [5ms]
+2024-06-18 22:04:14.320 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 22:04:15.236 [info] > git rev-parse --show-toplevel [5ms]
+2024-06-18 22:04:15.236 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 22:19:25.404 [info] > git rev-parse --show-toplevel [5ms]
+2024-06-18 22:19:25.404 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-18 22:19:50.249 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-18 22:19:50.249 [info] fatal: not a git repository (or any parent up to mount point /run/media/neo)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

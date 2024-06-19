@@ -1,0 +1,4 @@
+2024-06-19 00:46:58.715 [error] browser #1: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Offline
+2024-06-19 00:46:58.847 [error] browser #2: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Offline
+2024-06-19 00:51:58.856 [error] browser #3: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Offline
+2024-06-19 00:56:58.934 [error] browser #4: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Offline

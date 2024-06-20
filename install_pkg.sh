@@ -3,7 +3,7 @@
 #Script install pkg
 
 scrDir=$(dirname "$(realpath "$0")")
-source "${scrDir}/global_fn.sh"
+source "${scrDir}/global.sh"
 if [ $? -ne 0 ]; then
     echo "Error: unable to source global_fn.sh..."
     exit 1

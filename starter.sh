@@ -34,6 +34,11 @@ else
     cp -f .zshrc ~/.zshrc
 fi
 
+#hyprland files
+if [ ! -f ~/.config ]; then
+mkdir ~/.config
+fi
+
 # Function to clone plugins
 clone_plugin() {
     git clone $1 $2
@@ -43,7 +48,6 @@ clone_plugin() {
 if [ ! -d ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions ]; then
     clone_plugin https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
 fi
-
 if [ ! -d ~/.oh-my-zsh/custom/plugins/zsh-256color ]; then
     clone_plugin https://github.com/chrissicool/zsh-256color ~/.oh-my-zsh/custom/plugins/zsh-256color
 fi

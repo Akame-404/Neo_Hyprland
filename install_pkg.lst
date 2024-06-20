@@ -1,0 +1,75 @@
+# --------------------------------------------------- // System                           
+pavucontrol                                            # pulseaudio volume control
+pamixer                                                # pulseaudio cli mixer
+networkmanager                                         # network manager
+network-manager-applet                                 # network manager system tray utility
+bluez                                                  # bluetooth protocol stack
+bluez-utils                                            # bluetooth utility cli
+blueman                                                # bluetooth manager gui
+brightnessctl                                          # screen brightness control
+udiskie                                                # manage removable media
+btop                                                   # process viewer
+htop                                                   # process viewer2                                                  
+unrar                                                  # open rar files
+unzip                                                  # unzip zip files
+p7zip                                                  # manage zip files
+
+
+# --------------------------------------------------- // Window Manager
+
+hyprland                                               # wlroots-based wayland compositor
+dunst                                                  # notification daemon
+rofi-lbonn-wayland-git                                 # application launcher
+waybar                                                 # system bar
+hyprpaper                                              # wallpaper
+swaylock-effects-git                                   # lock screen
+wlogout                                                # logout menu
+hyprshot                                               # screenshot tool
+
+# --------------------------------------------------- // Dependencies
+polkit-gnome                                           # authentication agent
+xdg-desktop-portal-hyprland                            # xdg desktop portal for hyprland
+pacman-contrib                                         # for system update check
+python-pyamdgpuinfo                                    # for amd gpu info
+parallel                                               # for parallel processing
+jq                                                     # for json processing
+imagemagick                                            # for image processing
+qt5-imageformats                                       # for dolphin image thumbnails
+ffmpegthumbs                                           # for dolphin video thumbnails
+kde-cli-tools                                          # for dolphin file type defaults
+libnotify                                              # for notifications
+systemd                                                # systemd
+
+# --------------------------------------------------- // Applications
+firefox                                                # browser
+terminator                                             # terminal
+kitty                                                  # terminal 2
+nemo                                                   # file manager
+ark                                                    # kde file archiver
+vim                                                    # terminal text editor
+code                                                   # ide text editor
+notion-app-electron
+
+# --------------------------------------------------- // Shell
+eza|zsh                                                # file lister for zsh
+oh-my-zsh-git|zsh                                      # plugin manager for zsh
+zsh-theme-powerlevel10k-git|zsh oh-my-zsh-git          # theme for zsh
+fish                                                   # file lister for fish
+starship                                               # customizable shell prompt
+fastfetch                                              # system information fetch tool
+pokemon-colorscripts-git|zsh                           # display pokemon sprites
+tree                                                   # display organisation folder
+lsd
+
+# --------------------------------------------------- // Fonts & cursor
+ttf-firacode-nerd  
+ttf-jetbrains-mono-nerd 
+ttf-font-awesome
+
+
+
+# --------------------------------------------------- // HyDE
+hyde-cli-git                                           # cli tool to manage hyde
+linux-headers
+nvidia-dkms 
+nvidia-utils

@@ -98,7 +98,22 @@ fi
 # install packages from the list #
 #--------------------------------#
 "${scrDir}/install_pkg.sh" "${scrDir}/install_pkg.lst"
-rm "${scrDir}/install_pkg.lst"
+
+
+while read -r servChk; do
+    if [[ $(systemctl list-units --all -t service --full --no-legend "${servChk}.service" | sed 's/^\s*//g' | cut -f1 -d' ') == "${servChk}.service" ]]; then
+        echo -e "\033[0;33m[SKIP]\033[0m ${servChk} service is active..."
+    else
+        echo -e "\033[0;32m[systemctl]\033[0m starting ${servChk} system service..."
+        sudo systemctl enable "${servChk}.service"
+        sudo systemctl start "${servChk}.service"
+	sudo systemctl enable nvidia-suspend.service
+	sudo systemctl enable nvidia-hibernate.service
+	sudo systemctl enable nvidia-resume.service
+   
+ fi
+done < "${scrDir}/system_ctl.lst"
+
 
 #---------------------------#
 # restore my custom configs #
@@ -113,27 +128,5 @@ cat << "EOF"
 # ···································
 EOF
 
-"${scrDir}/install_pst.sh"
+"${scrDir}/install__end.sh"
 
-#------------------------#
-# enable system services #
-#------------------------#
-cat << "EOF"
-# ·····································
-# :                     _             :
-# : ___  ___ _ ____   _(_) ___ ___  __:
-# :/ __|/ _ \ '__\ \ / / |/ __/ _ \/ _:
-# :\__ \  __/ |   \ V /| | (_|  __/\__:
-# :|___/\___|_|    \_/ |_|\___\___||__:
-# ·····································
-EOF
-
-while read -r servChk; do
-    if [[ $(systemctl list-units --all -t service --full --no-legend "${servChk}.service" | sed 's/^\s*//g' | cut -f1 -d' ') == "${servChk}.service" ]]; then
-        echo -e "\033[0;33m[SKIP]\033[0m ${servChk} service is active..."
-    else
-        echo -e "\033[0;32m[systemctl]\033[0m starting ${servChk} system service..."
-        sudo systemctl enable "${servChk}.service"
-        sudo systemctl start "${servChk}.service"
-    fi
-done < "${scrDir}/system_ctl.lst"

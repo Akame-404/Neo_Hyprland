@@ -1,13 +1,12 @@
 #!/usr/bin/env bash
-#|---/ /+--------------------------------------+---/ /|#
-#|--/ /-| Script to apply post install configs |--/ /-|#
-#|-/ /--| Prasanth Rangan                      |-/ /--|#
-#|/ /---+--------------------------------------+/ /---|#
+
+#Last Install
 
 scrDir=$(dirname "$(realpath "$0")")
 source "${scrDir}/global.sh"
+
 if [ $? -ne 0 ]; then
-    echo "Error: unable to source global_fn.sh..."
+    echo "Error: unable to source global.sh..."
     exit 1
 fi
 
@@ -29,7 +28,7 @@ if pkg_installed sddm; then
         *) sddmtheme="Corners" ;;
         esac
 
-        sudo tar -xzf ${cloneDir}/Source/arcs/Sddm_${sddmtheme}.tar.gz -C /usr/share/sddm/themes/
+        sudo tar -xzf ${scrDir}/Source/arcs/Sddm_${sddmtheme}.tar.gz -C /usr/share/sddm/themes/
         sudo touch /etc/sddm.conf.d/kde_settings.conf
         sudo cp /etc/sddm.conf.d/kde_settings.conf /etc/sddm.conf.d/kde_settings.t2.bkp
         sudo cp /usr/share/sddm/themes/${sddmtheme}/kde_settings.conf /etc/sddm.conf.d/

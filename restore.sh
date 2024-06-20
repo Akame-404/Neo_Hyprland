@@ -3,3 +3,4 @@
 scrDir=$(dirname "$(realpath "$0")")
 
 cp -rf $scrDir/.config/* ~/.config 
+cp -rf $scrDir/.zshrc/* ~/

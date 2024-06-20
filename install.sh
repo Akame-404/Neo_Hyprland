@@ -128,5 +128,5 @@ cat << "EOF"
 # ···································
 EOF
 
-"${scrDir}/install__end.sh"
+"${scrDir}/install_end.sh"
 

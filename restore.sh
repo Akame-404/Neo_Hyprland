@@ -7,3 +7,4 @@ cp -rf $scrDir/.zshrc ~/
 git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 sudo cp -rf $scrDir/Sources/grub .config 
 sudo cp -rf $scrDir/Sources/arcs/Neo_Grub /usr/share/grub/themes/
+sudo grub-mkconfig -o /boot/grub/grub.cfg

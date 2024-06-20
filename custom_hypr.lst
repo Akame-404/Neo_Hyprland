@@ -60,6 +60,7 @@ fastfetch                                              # system information fetc
 pokemon-colorscripts-git|zsh                           # display pokemon sprites
 tree                                                   # display organisation folder
 lsd
+neovim
 
 # --------------------------------------------------- // Fonts & cursor
 ttf-firacode-nerd  

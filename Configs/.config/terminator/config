@@ -1,0 +1,28 @@
+[global_config]
+  focus = mouse
+[keybindings]
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_darkness = 0.29
+    background_type = transparent
+    cursor_fg_color = "#dc8add"
+    cursor_bg_color = "#ed333b"
+    cursor_color_default = False
+    font = JetBrainsMonoNL Nerd Font Propo Ultra-Bold 12
+    foreground_color = "#00c2ff"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_lines = 10000
+    palette = "#000000:#cd0000:#00cd00:#cdcd00:#ed333b:#cd00cd:#00cdcd:#e5e5e5:#7f7f7f:#ff0000:#00ff00:#ffff00:#5c5cff:#ff00ff:#57e389:#ffffff"
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+[plugins]

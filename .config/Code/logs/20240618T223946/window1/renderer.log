@@ -1,4 +1,0 @@
-2024-06-18 22:39:47.602 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/neo/.config/waybar/theme.css","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-06-18 22:39:48.351 [info] Started local extension host with pid 14512.
-2024-06-18 22:39:48.403 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
-2024-06-18 22:39:51.697 [info] [perf] Render performance baseline is 50ms

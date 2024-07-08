@@ -1,3 +1,0 @@
-2024-06-18 19:30:22.489 [info] Started local extension host with pid 2836.
-2024-06-18 19:30:22.615 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
-2024-06-18 19:30:26.341 [info] [perf] Render performance baseline is 80ms

@@ -1,8 +1,4 @@
 #!/usr/bin/env bash
-#|---/ /+-------------------------------------+---/ /|#
-#|--/ /-| Script to apply pre install configs |--/ /-|#
-#|-/ /--| Prasanth Rangan                     |-/ /--|#
-#|/ /---+-------------------------------------+/ /---|#
 
 scrDir=$(dirname "$(realpath "$0")")
 source "${scrDir}/global_fn.sh"
@@ -31,6 +27,7 @@ if pkg_installed grub && [ -f /boot/grub/grub.cfg ]; then
         case ${grubopt} in
             1) grubtheme="Retroboot" ;;
             2) grubtheme="Neo" ;;
+            3) grubtheme="Pochita" ;;
             *) grubtheme="None" ;;
         esac
 

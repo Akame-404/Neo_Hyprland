@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
-#|---/ /+----------------------------------------+---/ /|#
-#|--/ /-| Script to install pkgs from input list |--/ /-|#
-#|-/ /--| Prasanth Rangan                        |-/ /--|#
-#|/ /---+----------------------------------------+/ /---|#
+
 
 scrDir=$(dirname "$(realpath "$0")")
 source "${scrDir}/global_fn.sh"

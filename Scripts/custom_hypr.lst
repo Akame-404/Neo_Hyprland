@@ -15,6 +15,7 @@ bluez-utils                                            # bluetooth utility cli
 blueman                                                # bluetooth manager gui
 brightnessctl                                          # screen brightness control
 udiskie                                                # manage removable media
+nvchad                                                 # neovim for chad
 
 # --------------------------------------------------- // Display Manager
 ly                                                     # display manager for KDE plasma

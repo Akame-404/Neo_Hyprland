@@ -11,7 +11,6 @@ N|Y|${HOME}/.config/hypr|keybindings.conf monitors.conf userprefs.conf|hyprland
 N|Y|${HOME}/.config/hypr|nvidia.conf|hyprland nvidia-utils
 Y|Y|${HOME}/.local/share|bin|hyprland
 Y|Y|${HOME}/.config|kitty|kitty
-Y|Y|${HOME}/.config|nemo|nemo
 Y|Y|${HOME}/.config|terminator|terminator
 Y|Y|${HOME}/.config|Kvantum|kvantum
 Y|Y|${HOME}/.config|lsd|lsd
